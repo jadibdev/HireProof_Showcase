@@ -73,5 +73,5 @@ Instead of blindly trusting the AI, I implemented a "Judge" step:
 
 ## 👤 Author
 
-Built by **[MJ]**.
+Built by **MJ**.
 If you'd like to discuss the engineering challenges behind this project, feel free to reach out!
