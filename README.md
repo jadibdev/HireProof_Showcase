@@ -60,14 +60,14 @@ Instead of blindly trusting the AI, I implemented a "Judge" step:
 
 
 
+### Landing Page
+![Landing Page](screenshots/landing.png)
+
 ### The Dashboard
 ![Dashboard View](screenshots/dashboard.png)
 
 ### The Builder
 ![Resume Builder](screenshots/builder.png)
-
-### Landing Page
-![Landing Page](screenshots/landing.png)
 
 ---
 
