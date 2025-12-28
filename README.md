@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="screenshots/landing.png" alt="HireProof — AI-powered resume tailoring" />
+</p>
+<p align="center"><sub>HireProof (hireproof.app) — role-aligned, recruiter-ready resumes.</sub></p>
+
 # HireProof (hireproof.app) - AI-Powered Resume Tailor 🚀
 
 > **A Next.js application that uses LLMs to "beat the bots" by tailoring resumes to specific job descriptions.**
